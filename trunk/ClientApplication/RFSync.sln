@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RFSync", "RFSync\RFSync.csproj", "{49A9AF00-79F0-4F87-ABFD-48B21B06A22C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "RFSyncSetup", "RFSyncSetup\RFSyncSetup.vdproj", "{8EC049EF-684D-43EA-BCF9-D704C5BF0BC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49A9AF00-79F0-4F87-ABFD-48B21B06A22C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49A9AF00-79F0-4F87-ABFD-48B21B06A22C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49A9AF00-79F0-4F87-ABFD-48B21B06A22C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49A9AF00-79F0-4F87-ABFD-48B21B06A22C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EC049EF-684D-43EA-BCF9-D704C5BF0BC4}.Debug|Any CPU.ActiveCfg = Debug
+		{8EC049EF-684D-43EA-BCF9-D704C5BF0BC4}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
