@@ -4,9 +4,9 @@ This demo illustrates devices interaction while using FRSync Arduino library.
 
 ===Characters===
 
-  # Client
-  # Server 
-  # Observer
+  * Client
+  * Server 
+  * Observer
 
 
 ===Act===
@@ -19,20 +19,20 @@ This demo illustrates devices interaction while using FRSync Arduino library.
 
 = Hardware =
 
-  # RF-2400P module - 2 pieces
-  # Arduino board - 2 pieces
-  # RF-2410U dongle  - 1 piece
-  # PC running on Microsoft Windows - 1 piece
+  * RF-2400P module - 2 pieces
+  * Arduino board - 2 pieces
+  * RF-2410U dongle  - 1 piece
+  * PC running on Microsoft Windows - 1 piece
 
 = Software =
 
-  # RFSync Arduino library
-  # Arduino sketch for the *Client*
-  # Arduino sketch for the *Server*
-  # Drivers for RF-2410U 
-  # RF-2410U firmware
-  # RF-2410U loader application.
-  # *Observer* client application.
+  * RFSync Arduino library
+  * Arduino sketch for the *Client*
+  * Arduino sketch for the *Server*
+  * Drivers for RF-2410U 
+  * RF-2410U firmware
+  * RF-2410U loader application.
+  * *Observer* client application.
 
 = Assembly instruction =
 
@@ -40,10 +40,17 @@ This demo illustrates devices interaction while using FRSync Arduino library.
 
   # Connect RF-2400P modules to Arduino boards using next [Schematic connection diagram].
   # Set up RFSync library on Arduino IDE.
-  # Download client and server sketces on arduino boards
-
+  # Download client and server sketces on arduino boards.
 
 ===Observer===
 
+  # Install drivers.
+  # Run Loader application and update firmware on RF-2410U dongle
+  # Install and run Observer client application.
 
 = Running demo =
+
+  # Power up the arduino boards.
+  # Look at the devices interaction process using UART interface.
+  # Press "Start" button in the observer application.
+  # Look at the devices interaction in the observer application console.
