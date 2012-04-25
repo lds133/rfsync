@@ -38,18 +38,9 @@ This demo illustrates devices interaction while using FRSync Arduino library.
 
 ===Client & Server===
 
-Connect RF-2400P modules to Arduino boards using next connection diagram.
-||*Module pin*||*Arduino pin*||
-||MISO||12||
-||MOSI||11||
-||SCK||13||
-||CE||8||
-||CSN||7||
-||3.3 V||3.3 V||
-||GND||GND||
-
-Set up RFSync library on Arduino IDE.
-Download client and server sketces on arduino boards
+  # Connect RF-2400P modules to Arduino boards using next [Schematic connection diagram].
+  # Set up RFSync library on Arduino IDE.
+  # Download client and server sketces on arduino boards
 
 
 ===Observer===
