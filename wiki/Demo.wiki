@@ -2,14 +2,14 @@
 
 This demo shows devices interaction based on FRSync library. 
 
-==Characters==
+===Characters===
 
   # Client
   # Server 
   # Observer
 
 
-==Act==
+===Act===
 
   * *Client* puts in common data array, system time information.
   * *Server* takes from common data array information and put it in another position.
