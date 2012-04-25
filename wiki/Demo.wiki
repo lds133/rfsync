@@ -1,6 +1,6 @@
 = Description =
 
-This demo shows devices interaction based on FRSync library. 
+This demo illustrates devices interaction based on FRSync library. 
 
 ===Characters===
 
