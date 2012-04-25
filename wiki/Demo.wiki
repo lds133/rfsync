@@ -1,14 +1,12 @@
-#This page describes RFSync Arduino library demo
-
 = Description =
 
 This demo shows devices interaction based on FRSync library. 
 
 ==Characters==
 
-#Client
-#Server 
-#Observer
+#  Client
+#  Server 
+#  Observer
 
 ==Act==
 
