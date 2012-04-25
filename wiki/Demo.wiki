@@ -5,8 +5,11 @@ This demo shows devices interaction based on FRSync library.
 ==Characters==
 
 #  Client
+
 #  Server 
+
 #  Observer
+
 
 ==Act==
 
