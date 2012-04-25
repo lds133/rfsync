@@ -1,0 +1,27 @@
+#This page describes RFSync Arduino library demo
+
+= Description =
+
+This demo shows devices interaction based on FRSync library. 
+
+==Characters==
+
+#Client
+#Server 
+#Observer
+
+==Act==
+
+*  *Client* puts in common data array, system time information.
+*  *Server* takes from common data array information and put it in another position.
+*  *Client* takes time information from another position (were it was placed by server), compare it with current time and calculate time that sycnronization takes.
+*  All syncronization processes observes by the *Observer* 
+
+
+= Hardware =
+
+
+= Software =
+
+
+= Assembly instruction =
