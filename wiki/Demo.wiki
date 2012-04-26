@@ -15,8 +15,8 @@ http://rfsync.googlecode.com/svn/wiki/RF2400.png
 
   # *Client* puts in common data array, system time information.
   # *Server* takes from common data array information and put it in another position.
-  # *Client* takes time information from another position (were it was placed by server), compare it with current time and calculate time that sycnronization takes.
-  # All syncronization processes observes by the *Observer* 
+  # *Client* takes time information from another position (where it was placed by server), compare it with current time and calculate time that synchronization takes.
+  # All synchronization processes observes by the *Observer* 
 
 
 = Hardware =
@@ -42,7 +42,7 @@ http://rfsync.googlecode.com/svn/wiki/RF2400.png
 
   # Connect RF-2400P modules to Arduino boards using next [Schematic connection diagram].
   # Set up RFSync library on Arduino IDE.
-  # Download client and server sketces on arduino boards.
+  # Download client and server sketches on arduino boards.
 
 ===Observer===
 
