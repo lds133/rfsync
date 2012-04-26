@@ -24,7 +24,7 @@ http://rfsync.googlecode.com/svn/wiki/RF2400.png
   * [http://www.inhaos.com/product_info.php?products_id=35 RF-2400P module] - 2 pieces
   * [http://arduino.cc Arduino board] - 2 pieces
   * [http://www.inhaos.com/product_info.php?products_id=42 RF-2410U dongle]  - 1 piece
-  * [http://www.microsoft.com PC] running on Microsoft Windows - 1 piece
+  * [http://en.wikipedia.org/wiki/Personal_computer PC] running on [http://www.microsoft.com  Microsoft Windows] - 1 piece
 
 = Software =
 
