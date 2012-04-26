@@ -21,20 +21,20 @@ http://rfsync.googlecode.com/svn/wiki/RF2400.png
 
 = Hardware =
 
-  * RF-2400P module - 2 pieces
-  * Arduino board - 2 pieces
-  * RF-2410U dongle  - 1 piece
-  * PC running on Microsoft Windows - 1 piece
+  * [http://www.inhaos.com/product_info.php?products_id=35 RF-2400P module] - 2 pieces
+  * [http://arduino.cc Arduino board] - 2 pieces
+  * [http://www.inhaos.com/product_info.php?products_id=42 RF-2410U dongle]  - 1 piece
+  * [http://www.microsoft.com PC] running on Microsoft Windows - 1 piece
 
 = Software =
 
-  * RFSync Arduino library
-  * Arduino sketch for the *Client*
-  * Arduino sketch for the *Server*
-  * Drivers for RF-2410U 
-  * RF-2410U firmware
-  * RF-2410U loader application.
-  * *Observer* client application.
+  * RFSync Arduino [http://rfsync.googlecode.com/files/RFSync_0-01.zip library]
+  * Arduino [http://rfsync.googlecode.com/svn/trunk/ArduinoLibrary/RFSync/examples/RFSync_client/RFSync_client.ino sketch] for the *Client*
+  * Arduino [http://rfsync.googlecode.com/svn/trunk/ArduinoLibrary/RFSync/examples/RFSync_server/RFSync_server.ino sketch] for the *Server*
+  * [Drivers Drivers] for RF-2410U 
+  * [http://rfsync.googlecode.com/files/RF2410U%20RFSYNC%200_01.hex RF-2410U firmware]
+  * [http://rfsync.googlecode.com/files/RF2410U%20Loader.zip RF-2410U loader] application.
+  * *Observer* [http://rfsync.googlecode.com/files/RFSyncSetup_0-01.msi client application].
 
 = Assembly instruction =
 
