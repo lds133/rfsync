@@ -28,6 +28,7 @@ http://rfsync.googlecode.com/svn/wiki/RF2400.png
 
 = Software =
 
+  * [http://arduino.cc/en/Main/Software Arduino IDE]
   * RFSync Arduino [http://rfsync.googlecode.com/files/RFSync_0-01.zip library]
   * Arduino [http://rfsync.googlecode.com/svn/trunk/ArduinoLibrary/RFSync/examples/RFSync_client/RFSync_client.ino sketch] for the *Client*
   * Arduino [http://rfsync.googlecode.com/svn/trunk/ArduinoLibrary/RFSync/examples/RFSync_server/RFSync_server.ino sketch] for the *Server*
