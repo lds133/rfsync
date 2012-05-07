@@ -49,7 +49,7 @@ http://rfsync.googlecode.com/svn/wiki/RF2400.png
 
   # Install drivers.
   # Run Loader application and update firmware on RF-2410U dongle
-  # Install and run Observer client application.
+  # Install and run Observer [GUI client application].
 
 = Running demo =
 
