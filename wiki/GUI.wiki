@@ -1,13 +1,14 @@
-#summary One-sentence summary of this page.
+= RF-2410U client application interface =
 
-= Introduction =
+http://rfsync.googlecode.com/svn/wiki/gui_ss.png
 
-Add your content here.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+  # Common data array
+  # Console
+  # Start synchronization process
+  # Stop synchronization process
+  # Offset for data to be set (decimal)
+  # Size of data to be set (decimal)
+  # Data to be set (hexadecimal)
+  # Press this button to set data, described at 5,6,7
+  # Update information for whole common data array
+  # Send command to RF-2410U dongle (try 'help' to start)
