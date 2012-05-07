@@ -11,4 +11,5 @@ http://rfsync.googlecode.com/svn/wiki/gui_ss.png
   # Data to be set (hexadecimal)
   # Press this button to set data, described at 5,6,7
   # Update information for whole common data array
-  # Send command to RF-2410U dongle (try 'help' to start)
+  # Command to RF-2410U dongle (try 'help' to start)
+  # Press this button to send command described at 10
