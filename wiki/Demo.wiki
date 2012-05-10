@@ -55,5 +55,5 @@ http://rfsync.googlecode.com/svn/wiki/RF2400.png
 
   # Power up the arduino boards.
   # Look at the devices interaction process using UART interface.
-  # Press "Start" button in the observer application.
+  # Press "Start" button in the [GUI observer application].
   # Look at the devices interaction in the observer application console.
