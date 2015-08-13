@@ -1,0 +1,1 @@
+RF-2410U [USBXpress](http://www.silabs.com/products/mcu/pages/usbxpress.aspx) drivers can be found on the [Silicon Labs](http://www.silabs.com) site.
